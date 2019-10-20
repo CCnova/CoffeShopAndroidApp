@@ -1,0 +1,10 @@
+<resources xmlns:xliff="urn:oasis:names:tx:xliff:document:1.2">
+    <string name="app_name">Just Java</string>
+
+    <!-- Header text for the list of toppings -->
+    <string name="toppings">Toppings</string>
+
+    <string name="thank_you">Thank you!</string>
+
+    <string name="order_summary_name">Name: <xliff:g id="name" example="Amy">%s</xliff:g></string>
+</resources>
